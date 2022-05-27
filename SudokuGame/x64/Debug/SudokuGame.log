@@ -1,0 +1,6 @@
+﻿  Input.cpp
+  InputManager.cpp
+C:\Users\mvhet\Documents\GitHub\CppProjects\SudokuGame\InputManager.cpp(55,34): warning C4244: 'argument': conversion from 'double' to 'uint8_t', possible loss of data
+  Main.cpp
+  Generating Code...
+  SudokuGame.vcxproj -> C:\Users\mvhet\Documents\GitHub\CppProjects\SudokuGame\x64\Debug\SudokuGame.exe
